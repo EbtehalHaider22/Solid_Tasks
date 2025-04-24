@@ -1,0 +1,4 @@
+C:\Users\Dell\Documents\SSIGNMENTS\SOLID_D1\SOLID_D1\obj\Debug\net8.0\SOLID_D1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SSIGNMENTS\SOLID_D1\SOLID_D1\obj\Debug\net8.0\SOLID_D1.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SSIGNMENTS\SOLID_D1\SOLID_D1\obj\Debug\net8.0\SOLID_D1.AssemblyInfo.cs
+C:\Users\Dell\Documents\SSIGNMENTS\SOLID_D1\SOLID_D1\obj\Debug\net8.0\SOLID_D1.csproj.CoreCompileInputs.cache
